@@ -122,7 +122,7 @@ export function HeroSection() {
                 <SiX className="w-5 h-5 text-muted-foreground group-hover:text-primary transition-colors" />
               </a>
               <a
-                href="mailto:likhith.pharmd@gmail.com"
+                href="mailto:likhithc98@gmail.com"
                 className="p-3 rounded-full border border-primary/20 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 group"
                 data-testid="link-email"
               >
@@ -138,11 +138,7 @@ export function HeroSection() {
             <div className="relative">
               <div className="absolute inset-0 rounded-full bg-primary/20 blur-3xl scale-110" />
               <div className="relative w-56 h-56 sm:w-64 sm:h-64 lg:w-72 lg:h-72 rounded-full border-2 border-primary/50 p-1 animate-glow-pulse">
-                <Avatar className="w-full h-full">
-                  <AvatarFallback className="text-4xl sm:text-5xl lg:text-6xl font-bold bg-gradient-to-br from-primary/20 to-primary/5 text-primary">
-                    CL
-                  </AvatarFallback>
-                </Avatar>
+                <img src="/images/professional-likhith.jpg" alt="C. Likhith" className="w-full h-full object-cover rounded-full" />
               </div>
             </div>
           </div>
