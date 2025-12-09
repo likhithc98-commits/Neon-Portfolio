@@ -1,8 +1,7 @@
 [build]
 command = "npm run build"
 base = "Neon-Portfolio"
-publish = "Neon-Portfolio/dist"
-
+publish = "dist"
 [[redirects]]
 from = "/*"
 to = "/index.html"
