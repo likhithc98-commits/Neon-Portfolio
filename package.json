@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "echo 'Development mode'",
-"build": "cd Neon-Portfolio && vite build && cp -r dist/public ../dist",  },
+"build": "cd Neon-Portfolio && vite build && cp -r dist/public ../dist",
+      },
   "dependencies": {},
   "devDependencies": {}
 }
