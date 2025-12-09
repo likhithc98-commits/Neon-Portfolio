@@ -4,8 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "echo 'Development mode'",
-"build": "cd Neon-Portfolio && vite build && cp -r dist/public ../dist",
-      },
+"build": "sh -c 'cd Neon-Portfolio && npm run build && mkdir -p ../dist && cp -r dist/public/* ../dist/'"      },
   "dependencies": {},
   "devDependencies": {}
 }
