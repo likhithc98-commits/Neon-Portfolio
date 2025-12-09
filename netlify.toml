@@ -1,0 +1,8 @@
+[build]
+  command = "echo 'Building portfolio'"
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
