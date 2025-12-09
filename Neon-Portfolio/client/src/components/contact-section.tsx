@@ -51,9 +51,7 @@ const socialLinks = [
   {
     name: "Email",
     icon: Mail,
-    href: "mailto:likhith.pharmd@gmail.com",
-    label: "likhith.pharmd@gmail.com",
-  },
+label: "Contact via Email",  },
 ];
 
 export function ContactSection() {
@@ -132,26 +130,7 @@ export function ContactSection() {
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
                   <MapPin className="w-5 h-5 text-primary" />
                 </div>
-                <div>
-                  <p className="font-medium text-foreground">Location</p>
-                  <p className="text-sm">Andhra Pradesh, India</p>
-                </div>
-              </div>
 
-              <div className="flex items-center gap-4 text-muted-foreground">
-                <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <Mail className="w-5 h-5 text-primary" />
-                </div>
-                <div>
-                  <p className="font-medium text-foreground">Email</p>
-                  <a
-                    href="mailto:likhith.pharmd@gmail.com"
-                    className="text-sm hover:text-primary transition-colors"
-                  >
-                    likhith.pharmd@gmail.com
-                  </a>
-                </div>
-              </div>
             </div>
 
             <div className="pt-4">
