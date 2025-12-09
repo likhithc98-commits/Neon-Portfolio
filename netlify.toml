@@ -1,5 +1,5 @@
 [build]
-command = "npm run build"
+command = "cd Neon-Portfolio && npm run build"
 base = "Neon-Portfolio"
 publish = "dist"
 [[redirects]]
