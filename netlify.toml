@@ -1,6 +1,6 @@
 [build]
-command = "cd Neon-Portfolio && npm run build"
-publish = "Neon-Portfolio/dist"
+command = "npm run build"
+publish = "dist"
 [[redirects]]
 from = "/*"
 to = "/index.html"
