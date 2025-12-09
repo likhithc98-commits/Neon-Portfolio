@@ -1,0 +1,48 @@
+UPDATE PORTFOLIO WITH ALL MISSING DETAILS:
+
+6 CERTIFICATIONS (ALL):
+1. Generative AI Mastermind - Outskill (Oct 2025) - AI Automation, Prompt Engineering, Machine Learning, Large Language Models, Custom GPT Development, No-Code Development, Generative AI
+2. Python Bootcamp with Artificial Intelligence - CodeFobe (Aug 2025) - Automation, SQL, Digital Health, Machine Learning, Healthcare Analytics, NumPy, TensorFlow, Data Analytics, Data Visualization, Natural Language Processing, Python
+3. Python Bootcamp with AI - Course Completion Certificate - CodeFobe - Official course completion certificate from 6-month intensive bootcamp
+4. Python & AI Internship Certificate - CodeFobe - Official internship completion certificate
+5. NSS Volunteer Certificate – National Service Scheme (Mar 2025) - Served as NSS Volunteer at Sri Padmavati School of Pharmacy, Tirupanoor from 2022-2023 to 2023-2024
+6. CME on Pharmacovigilance (Sep 2024) - Sri Venkateswara Institute of Medical Sciences (SVIMS), Tirupati - Pharmacy, Pharmacovigilance, Drug Safety, Clinical Research
+BONUS: National Conference Certificates - Innovations in Clinical Pharmacy Practice (Oct 2022, Seven Hills College) and Green Chemistry & Polymer Chemistry
+
+3 PROJECTS WITH COMPLETE PUBLICATION DETAILS:
+
+PROJECT 1: Clinical Profile and Drug Therapy of Various Liver Diseases - PUBLISHED INTERNATIONAL RESEARCH
+Journal: Journal of Population Therapeutics and Clinical Pharmacology (JPTCP)
+Volume/Issue: Vol. 31, No. 10, 2024
+Pages: 796-802
+Publication Date: October 16, 2024
+ISSN: 2561-8741
+DOI: 10.53555/g06aa848
+Indexing: Scopus, Clarivate Web of Science, EMBASE, Elsevier
+Study: Prospective observational clinical research - 150 patients (95% male, 5% female)
+Key Findings: DCLD 65.3%, CLD 14%, Alcoholic Liver Disease 11%, Portal hypertension 47%, Ascites 16.5%, Anemia 88.3%
+Drug Therapy: Cefotaxime 41.5%, Pantoprazole 48%, Ursodeoxycholic acid 41%
+Skills: Analytical Skills, Data Management, Clinical Research, Statistical Analysis, Hepatology, Clinical Documentation
+
+PROJECT 2: Medical & Healthcare AI Projects
+a) AI-Drug Interaction Prediction: ML model predicting adverse drug events from 10,000+ records with 87% accuracy using scikit-learn
+b) Pharmacovigilance Dashboard: Interactive SQL-based dashboard for real-time adverse reaction monitoring with Python, Matplotlib, Plotly
+Both on GitHub: likhithc98-commits/Pharmacovigilance-Dashboard and likhithc98-commits/AI-Drug-Interaction-Prediction
+
+PROJECT 3: Pharmacokinetic Study: Disease Patterns and Drug Interactions with Prasugrel - PUBLISHED INTERNATIONAL RESEARCH
+Journal: International Journal of Clinical Pharmacokinetics and Medical Sciences (INTERNATIONAL PUBLICATION!)
+Volume: Vol. 4(1), 2024
+DOI: https://doi.org/10.26452ijcpms.v4i1.575
+Study: Prospective observational clinical research - 110 patients (64.02% male, 35.98% female, ages 55-75)
+Key Findings: Prasugrel interactions in 28.63% of patients, Most common: Pantoprazole 16.91%, Aspirin 17.21%, Omeprazole 15.21%, Severity: 11.05% severe, 53.81% moderate, 34.13% mild
+Impact: Identified significant drug interactions affecting therapeutic efficacy and safety profiles
+Skills: Research Methodology, Pharmacokinetic Analysis, Clinical Data Management
+
+PROFILE PHOTO: I'm uploading a professional headshot - Replace the "CL" glowing circle with this professional photo. The photo shows me in professional business attire (black suit, white shirt, black tie, glasses). Apply it to the circular profile picture area that currently shows "CL" initials.
+
+CREATE:
+- Dedicated "Certifications" section showcasing all 6 certifications with publication dates
+- Enhanced "Projects" section with FULL publication details including DOI, journal names, and research findings for both international publications
+- Add professional photo to replace the glowing CL circle in hero section
+- Make certifications visually distinct with neon green borders/highlights
+- Add publication badges showing "International Publication" for projects 1 and 3
